@@ -9,6 +9,5 @@
   "axes.grid": true,
   "patch.edgecolor": "#eeeeee",
   "axes.titlesize": "x-large",
-  "svg.fonttype": "path",
-  "examples.directory": ""
+  "svg.fonttype": "path"
 }
